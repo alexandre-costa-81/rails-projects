@@ -15,3 +15,6 @@
 /log/*
 !/log/.keep
 /tmp
+
+# Ignore fiel generate by current state of the database.
+schema.rb
