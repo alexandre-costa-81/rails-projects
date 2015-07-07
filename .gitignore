@@ -1,2 +1,5 @@
 .vagrant
 rails
+
+# Ignore fiel generate by current state of the database.
+schema.rb
